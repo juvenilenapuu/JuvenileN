@@ -4,7 +4,6 @@
  
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning HTML,CSS,SQL,Wordpress,Javascript.
-- 💞️ I’m looking to collaborate on creative projects.
 - 📫 My Official Github: https://github.com/Juvenilenapuu
 - 📫 LinkedIn: https://www.linkedin.com/in/juvenile-napuu-b72831256/
 
