@@ -4,7 +4,7 @@
  
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning HTML,CSS,SQL,Wordpress and Javascript.
-- 📫 My Official Github: https://github.com/Juvenilenapuu
+- 📫 How to reach me juvinilenapuu@gmail.com
 - 📫 LinkedIn: https://www.linkedin.com/in/juvenile-napuu-b72831256/
 
 <!---
