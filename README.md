@@ -6,7 +6,7 @@ I’m Juvenile Napuu and this account is a showcase of stuff that I like working
 - 📞How to reach me:👇
 - 📧Email: juvinilenapuu@gmail.com.
 - 🔗LinkedIn: https://www.linkedin.com/in/juvenile-napuu-b72831256/.
-- ⚡Fun fact: If I am not coding I probably  play video games.
+- ⚡Fun fact: Coding will soon be as important as reading.
 - 😎Let's talk about Web development.
 
 <!---
