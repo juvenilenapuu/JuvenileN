@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning HTML,CSS,SQL,Wordpress and Javascript as a Front-End Developer.
 - 📫 How to reach me:⬇⬇⬇
-- Email-juvinilenapuu@gmail.com
+- Email- juvinilenapuu@gmail.com
 - LinkedIn-https://www.linkedin.com/in/juvenile-napuu-b72831256/
 -⚡Fun fact: If I am not coding I probably  play video games.
 
