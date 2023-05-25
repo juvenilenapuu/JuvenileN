@@ -1,6 +1,6 @@
 
  Hi Coders 👋.
- I’m Juvenile Napuu and this account is a showcase of stuff that I like working on.
+I’m Juvenile Napuu and this account is a showcase of stuff that I like working on.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning HTML, CSS, SQL, Bootstarp, Wordpress and Javascript as a Front-End Developer.
 - 📫 How to reach me vie email juvinilenapuu@gmail.com.
