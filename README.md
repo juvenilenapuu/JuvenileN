@@ -2,9 +2,9 @@
  Hi Coders 👋
  I’m Juvenile Napuu and this account is a showcase of stuff that I like working on.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML,CSS,SQL,Wordpress and Javascript as a Front-End Developer.
+- 🌱 I’m currently learning HTML, CSS, SQL, Bootstarp, Wordpress and Javascript as a Front-End Developer.
 - 📫 How to reach me vie eamail juvinilenapuu@gmail.com.
-- LinkedIn-https://www.linkedin.com/in/juvenile-napuu-b72831256/
+- LinkedIn-https://www.linkedin.com/in/juvenile-napuu-b72831256/.
 -⚡Fun fact: If I am not coding I probably  play video games.
 
 <!---
