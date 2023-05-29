@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS JavaScript, WordPress and Bootstrap.**
 
-- 🤝 I’m looking for help with **Web Design and Development.**
+- 🤝 I’m looking for help with **Javascript.**
 
 - 💬 Ask me about👉 **Front-End Web Development stuffs.**
 
