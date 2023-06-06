@@ -1,3 +1,4 @@
+![logo](https://github.com/Juvenilenapuu/Juvenilenapuu/blob/main/1677699898012.jpg)
 <h1 align="center">Hi Coders👋, I'm Juvenile Napuu</h1>
 <h3 align="center">A passionate Front-End Developer from Kenya</h3>
 
