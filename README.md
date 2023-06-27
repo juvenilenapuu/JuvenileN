@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS JavaScript, WordPress and Bootstrap.**
 
-- 🤝 I’m looking for help with **Javascript.**
+- 🤝👯 I’m looking to collaborate on **Front-End projects.**
 
 - 💬 Ask me about👉 **Front-End Web Development stuffs.**
 
