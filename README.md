@@ -1,6 +1,6 @@
 ![logo](https://github.com/Juvenilenapuu/Juvenilenapuu/blob/main/1677699898012.jpg)
-<h1 align="center">Hi Coders👋, I'm Juvenile Napuu</h1>
-<h3 align="center">A passionate Front-End Developer from Kenya</h3>
+<h1 align="center">Hi Coders👋, I'm Juvenile</h1>
+<h3 align="center">A passionate Front-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juvenilenapuu&label=Profile%20views&color=0e75b6&style=flat" alt="juvenilenapuu" /> </p>
 
