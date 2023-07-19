@@ -1,6 +1,6 @@
-
 <h1 align="center">Hi Coders👋, I'm Juvenile</h1>
-<h3 align="center">A passionate Front-End Developer</h3>
+<h3 align="center">A passionate Web Developer</h3>
+<p>Frontend Developer | HTML, CSS, JavaScript, Git |IT Student</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juvenilenapuu&label=Profile%20views&color=0e75b6&style=flat" alt="juvenilenapuu" /> </p>
 
