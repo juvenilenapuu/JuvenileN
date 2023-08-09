@@ -35,5 +35,5 @@ As an advocate for clean and intuitive design, I thrive on transforming ideas in
 
 ![logo image](https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif)
 
-<h3 align="left">✍Random Dev Quote:</h3>
-<I>"Debugging is like being the detective in a crime movie where you are also the murderer." - Filipe Fortes"</i>
+<h3 align="center">✍Random Dev Quote:</h3>
+<p align="center"><i>"Debugging is like being the detective in a crime movie where you are also the murderer." - Filipe Fortes"</i></p>
